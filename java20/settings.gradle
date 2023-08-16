@@ -1,0 +1,3 @@
+rootProject.name = 'java20'
+
+include 'model', 'function', 'entrypoint'
